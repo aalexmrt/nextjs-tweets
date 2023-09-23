@@ -1,1 +1,1 @@
-# nextjs-tweets
+# twitter clone
